@@ -1,0 +1,11 @@
+{
+  "name": "NIN_AmbientMusicTracks",
+  "version": "1.1",
+  "factorio_version": "0.14",
+  "title": "Nine Inch Nails Ambient Music Tracks - 69 new tracks",
+  "author": "Rtsguy002",
+  "contact": "N/A",
+  "homepage": "N/A",
+  "description": "Adds 69 instrumental tracks for your listening pleasure. Many thanks to Trent Reznor for releasing all his music as creative commons in multi-tracks and allowing the creation of...remix.nin.com",
+  "dependencies": ["base >= 0.14.0" ]
+}
